@@ -1,3 +1,1 @@
-Welcome to my Cheerlights project
-
-Any suggestions please feel free to contact
+Code to run on raspberry pi to communicate with the arduino via usb
